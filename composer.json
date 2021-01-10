@@ -1,12 +1,12 @@
 {
-    "name": "cloudcreativity/laravel-stripe",
+    "name": "pocketsoftware/laravel-stripe",
     "description": "Laravel integration for Stripe, including Stripe Connect.",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Christopher Gammie",
-            "email": "info@cloudcreativity.co.uk"
+            "name": "Eric Erhardt",
+            "email": "developer@aquaroutes.com"
         }
     ],
     "minimum-stability": "stable",
